@@ -19,12 +19,12 @@ class Logger(object):
         self.log.write(message)
     def flush(self):
         pass
-sys.stdout = Logger("result.txt") 
+sys.stdout = Logger("data/result.txt") 
 #下面所有的方法，只要控制台输出，都将写入"result.txt"
 
 
 country=[]
-for line in open("SSR.txt","r"): #设置文件对象并读取每一行文件
+for line in open("data/SSR.txt","r"): #设置文件对象并读取每一行文件
     temp=line.split('\t')
     print("\n第",temp[0],"个:")
     ssr = temp[1][:-1]

@@ -43,3 +43,19 @@ params_base64是
 	remarks=U1NSVE9PTF9Ob2RlOue-juWbvSDliqDliKnnpo_lsLzkuprlt57lnKPkvZXloZ5DaG9vcGHmlbDmja7kuK3lv4M&group=V1dXLlNTUlRPT0wuQ09N
 
 然后再次解码即可.
+
+## code
+
+#### 将SSR链接放入SSR.txt内，使用控制台$python main.py即可. 如果在IDE内执行不会输出到result.txt内
+
+### main.py是程序主入口
+
+### SSR_parse.py是对SSR进行解析
+
+### PingIP.py是看IP是否能ping通
+
+### LocateIP.py是用来定位IP
+
+### SSR.txt内保存的是SSR链接
+
+### result.txt是运行结果
