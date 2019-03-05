@@ -1,0 +1,9 @@
+请输入需要解析的ssr链接:ssr://MTAzLjExNC4xNjMuMzg6NTYxMzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46ZDNkM0xuZDFkM2RsWWk1amIyMC8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVFFbFNRVTVUVTFJZ0xTQXhOMEYxWnlBdElERXdNeTR4TVRRdU1UWXpMak00Jmdyb3VwPVFFbFNRVTVUVTFJ
+解析结果:
+server: 103.114.163.38, port: 5613, 协议: origin, 加密方法: aes-256-cfb, 密码: www.wuwweb.com, 混淆: plain, 混淆参数: , 协议参数: , 备注: @IRANSSR - 17Aug - 103.114.163.38, 分组: @IRANSSR
+请输入需要解析的ssr链接:ssr://NTkuMTI1LjYxLjE4MDo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09ZEhObE15NXRiUzVpYVc1bkxtNWxkQ3gwYzJVeUxtMXRMbUpwYm1jdWJtVjBMSFJ6WlRFdWJXMHVZbWx1Wnk1dVpYUXNZMnh2ZFdSbWNtOXVkQzVqYjIwc1kyeHZkV1JtYkdGeVpTNWpiMjBzWVdwaGVDNXRhV055YjNOdlpuUXVZMjl0TEhkM2R5NWlhVzVuTG1OdmJRJnByb3RvcGFyYW09JnJlbWFya3M9UUVsU1FVNVRVMUlnTFNBeE4wRjFaeUF0SURVNUxqRXlOUzQyTVM0eE9EQSZncm91cD1RRWxTUVU1VFUxSQ
+解析结果:
+server: 59.125.61.180, port: 8097, 协议: origin, 加密方法: aes-256-cfb, 密码: eIW0Dnk69454e6nSwuspv9DmS201tQ0D, 混淆: plain, 混淆参数: tse3.mm.bing.net,tse2.mm.bing.net,tse1.mm.bing.net,cloudfront.com,cloudflare.com,ajax.microsoft.com,www.bing.com, 协议参数: tse3.mm.bing.net,tse2.mm.bing.net,tse1.mm.bing.net,cloudfront.com,cloudflare.com,ajax.microsoft.com,www.bing.com, 备注: @IRANSSR - 17Aug - 59.125.61.180, 分组: @IRANSSR
+请输入需要解析的ssr链接:ssr://MjA3LjEyNi4xNjUuMTM4OjEyNjY2OmF1dGhfc2hhMV92NDpjaGFjaGEyMDpodHRwX3NpbXBsZTpkRXAyYzFCRC8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVFFbFNRVTVUVTFJZ0xTQXhOMEYxWnlBdElESXdOeTR4TWpZdU1UWTFMakV6T0EmZ3JvdXA9UUVsU1FVNVRVMUk
+解析结果:
+server: 207.126.165.138, port: 12666, 协议: auth_sha1_v4, 加密方法: chacha20, 密码: tJvsPC, 混淆: http_simple, 混淆参数: , 协议参数: , 备注: @IRANSSR - 17Aug - 207.126.165.138, 分组: @IRANSSR
